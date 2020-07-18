@@ -11,10 +11,10 @@
 <h2>Screenshot</h2>
 
 <a src="https://drive.google.com/drive/folders/1Viu0e0r2QJ2_PpVWPBq541X4Jr2SPc4M?usp=sharing">
-  <img src="https://res.cloudinary.com/dhqnvbd52/image/upload/c_scale,w_230/v1595089237/Weather/day_da7idq.png" />
+  <img src="https://res.cloudinary.com/dhqnvbd52/image/upload/c_scale,w_200/v1595089237/Weather/day_da7idq.png" />
 </a>
 <a src="https://drive.google.com/drive/folders/1Viu0e0r2QJ2_PpVWPBq541X4Jr2SPc4M?usp=sharing">
-  <img src="https://res.cloudinary.com/dhqnvbd52/image/upload/c_scale,w_230/v1595089237/Weather/night_iswtl5.png" />
+  <img src="https://res.cloudinary.com/dhqnvbd52/image/upload/c_scale,w_200/v1595089237/Weather/night_iswtl5.png" />
 </a>
 
 
