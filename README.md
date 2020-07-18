@@ -13,12 +13,7 @@
 <a href="https://drive.google.com/drive/folders/1Viu0e0r2QJ2_PpVWPBq541X4Jr2SPc4M?usp=sharing">
   <img src="https://res.cloudinary.com/dhqnvbd52/image/upload/c_thumb,w230,g_face/v1595089237/Weather/day_da7idq.png"/>
 </a>
-<a href="https://drive.google.com/drive/folders/1Viu0e0r2QJ2_PpVWPBq541X4Jr2SPc4M?usp=sharing">
-  <img src="https://res.cloudinary.com/dhqnvbd52/image/upload/c_thumb,w230,g_face/v1595089237/Weather/night_iswtl5.png"/>
-</a>
-<a href="https://drive.google.com/drive/folders/1Viu0e0r2QJ2_PpVWPBq541X4Jr2SPc4M?usp=sharing">
-  <img src="https://res.cloudinary.com/dhqnvbd52/image/upload/c_thumb,w230,g_face/v1595089237/Weather/winter_night_afej5u.png"/>
-</a>
+
 
 ## :information_source: How To Use
 
