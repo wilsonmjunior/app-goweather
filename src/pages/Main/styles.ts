@@ -22,7 +22,6 @@ export const IconWeather = styled.View`
 export const CardContent = styled.View`
   flex-direction: row;
   z-index: 999;
-  bottom: 16px;
 `;
 
 export const ContentHeader = styled.View`

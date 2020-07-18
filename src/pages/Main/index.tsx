@@ -120,7 +120,7 @@ const Main: React.FC = () => {
 
           const date = new Date();
 
-          if (data.main.temp <= 283) {
+          if (data.main.temp <= 283 && !!data.rain) {
             setTypeWeather('winter');
             setBackgroundColor(
               `${
@@ -129,7 +129,7 @@ const Main: React.FC = () => {
                   : '#F7D28E'
               }`,
             );
-          } else if (data?.rain) {
+          } else if (data.rain) {
             setTypeWeather('raining');
             setBackgroundColor(
               `${
@@ -185,7 +185,7 @@ const Main: React.FC = () => {
             <ContentHeader>
               <WeatherCard
                 location={weatherData?.name}
-                temperature={weatherData?.main.temp}
+                temperature={280}
                 weatherText={weatherData?.weather[0].description}
                 handleRefresh={handleRefresh}
               />
